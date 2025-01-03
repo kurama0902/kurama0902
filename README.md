@@ -6,10 +6,10 @@ Front-end developer
 
 I am 20 years old and I am from Ukraine. I graduated from college in Ukraine with a degree in Computer Science. I am engaged in Front-end development for more than two years. I never thought that I would be engaged in this very thing. I was interested in software development in such languages as C/C++/Java/C#. After a while I got interested in developing the client part of the site, I was madly interested in how to make a beautiful interface, and how to write logic for the site on the client side. At first I had to learn with HTML5 and CSS3. It took some time to get used to the new environment, but I was thrilled that I could write beautiful interfaces with different animations. Later I moved on to learning a language I had heard a lot about but never tried it in action, it's a general purpose language called JavaScript where you can literally program electric kettles 😁 as funny as it sounds. So my websites have already started to be much livelier with JavaScript. Later on, I switched to learning React.js because of the fact that real big Front-end projects on pure JS are not really good to write in terms of optimization. So I started writing my applications in Single Page Application style. When I started to feel generally fluent in writing code in JS, I switched to writing code in TypeScript because of its strict typing, which is convenient. After a while, I got familiar with Node.js and databases so that I could also roughly understand how the server side works.
 
-* 🌍  I'm based in Mediaș, Sibiu, Romania
+* 🌍  I'm based in Deventer, Netherlands, Romania
 * ✉️  You can contact me at [dmytrohrynchuk9@gmail.com](mailto:dmytrohrynchuk9@gmail.com)
 * 🚀  I'm currently working on [Next.js "Kemuri" project](http://github.com/kurama0902/kemuri)
-* 🧠  I'm learning Next.js, React Native
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on React.js, Next.js Projects
 * ⚡  I really love intelligent, kind and gentle people who know how to help, support, love you as you are. Because all the things I have listed are also my qualities ❤️
 
