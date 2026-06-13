@@ -8,7 +8,7 @@ I am engaged in Front-end development for more than 3.5 years
 
 * 🌍  I'm based in Deventer, Netherlands
 * ✉️  You can contact me at [dmytrohrynchuk9@gmail.com](mailto:dmytrohrynchuk9@gmail.com)
-* 🚀  I'm currently working on [Next.js "Kemuri" project](http://github.com/kurama0902/kemuri)
+* 🚀  I'm currently working on [Chillie](http://github.com/kurama0902/Chillie)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on React.js, Next.js Projects
 * ⚡  I really love intelligent, kind and gentle people who know how to help, support, love you as you are. Because all the things I have listed are also my qualities ❤️
